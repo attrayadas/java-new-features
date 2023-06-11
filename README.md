@@ -19,3 +19,8 @@ Contains codes demonstrating Java new features starting from Java 8
 6. New methods in Streaming API (takeWhile(), dropWhile(), ofNullable())
 7. JSHELL
 8. Modules
+
+## Java 10 Features:
+1. Using var to declare variables
+2. Collectors new methods
+3. Improvement in Garbage Collection
