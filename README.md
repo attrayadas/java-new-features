@@ -24,3 +24,8 @@ Contains codes demonstrating Java new features starting from Java 8
 1. Using var to declare variables
 2. Collectors new methods
 3. Improvement in Garbage Collection
+
+## Java 11 Features:
+1. String new methods (isBlank(), lines(), strip(), stripLeading(), stripTrailing(), repeat(int count))
+2. Files API Updates
+3. isEmpty on Optional
