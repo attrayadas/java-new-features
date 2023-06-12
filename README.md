@@ -29,3 +29,9 @@ Contains codes demonstrating Java new features starting from Java 8
 1. String new methods (isBlank(), lines(), strip(), stripLeading(), stripTrailing(), repeat(int count))
 2. Files API Updates
 3. isEmpty on Optional
+
+## Java 12 Features:
+1. New String methods (indent(), transform())
+2. CompactNumberInstance
+3. Unicode characters
+4. Collectors API Updates (teeing())
