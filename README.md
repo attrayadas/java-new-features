@@ -9,9 +9,11 @@ Contains codes demonstrating Java new features starting from Java 8
 6. Consumer
 7. Supplier
 8. Parallel Stream
-9. Method Referencing
-10. Streams
-11. Optional
+9. flat & flatMap
+10. Method Referencing
+11. Streams
+12. Optional
+    [Checkout the Interview Questions related to Java 8 Stream API]([URL](https://github.com/attrayadas/java-new-features/tree/main/java-8-features/src/com/attraya/java8/interviewquestions))
 
 ## Java 9 Features:
 1. Private Interface methods
