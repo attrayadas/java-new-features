@@ -12,8 +12,8 @@ Contains codes demonstrating Java new features starting from Java 8
 9. flat & flatMap
 10. Method Referencing
 11. Streams
-12. Optional
-    [Checkout the Interview Questions related to Java 8 Stream API]([URL](https://github.com/attrayadas/java-new-features/tree/main/java-8-features/src/com/attraya/java8/interviewquestions))
+12. Optional </br>
+    🔗[Checkout the Interview Questions related to Java 8 Stream API](https://github.com/attrayadas/java-new-features/tree/main/java-8/features/src/com/attraya/java8/interviewquestions)
 
 ## Java 9 Features:
 1. Private Interface methods
