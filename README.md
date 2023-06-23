@@ -41,4 +41,9 @@ Contains codes demonstrating Java new features starting from Java 8
 3. Unicode characters
 4. Collectors API Updates (teeing())
 
-## Java 13 Features:
+## Java 13 & 14 Features:
+1. Text Blocks
+2. Switch Expressions
+3. instanceOf Pattern Matching
+4. Helpful Nullpointers
+5. Records
