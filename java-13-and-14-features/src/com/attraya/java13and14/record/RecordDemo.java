@@ -7,9 +7,6 @@ package com.attraya.java13and14.record;
  */
 public class RecordDemo {
 
-	record Employee(String name, int sal) {
-	}
-
 	public static void main(String[] args) {
 
 		Employee employee = new Employee("John", 11000);
