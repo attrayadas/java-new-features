@@ -17,7 +17,7 @@ public class StringContentBlockDemo {
 					"sal:":1000000
 				}
 				""";
-
+		/** "/" will remove the new line */
 		String str2 = """
 				{\
 				"name": "Bharath",\
@@ -31,3 +31,16 @@ public class StringContentBlockDemo {
 	}
 
 }
+
+//Output:
+//	<html>
+//		<body>
+//		</body>
+//	</html>
+//
+//	{
+//		"name": "Bharath",
+//		"sal:":1000000
+//	}
+//
+//	{"name": "Bharath","sal:":1000000}
