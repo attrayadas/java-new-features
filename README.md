@@ -47,3 +47,12 @@ Contains codes demonstrating Java new features starting from Java 8
 3. instanceOf Pattern Matching
 4. Helpful Nullpointers
 5. Records
+
+## Java 15 Features:
+1. Text Blocks
+2. Sealed Classes
+3. Enhanced Record Preview
+4. Pattern Matching Preview
+5. EdDSA
+6. Hidden Classes
+7. Garbage Collector
