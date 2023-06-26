@@ -63,3 +63,9 @@ Contains codes demonstrating Java new features starting from Java 8
 3. Time Format Enhancement
 4. Sealed Classes
 5. Default Methods and Proxies
+
+## Java 17 Features:
+1. Sealed Classes
+2. Random Generator Factories
+3. Pattern Matching Switch
+4. Enhanced De-SerializationFilters
