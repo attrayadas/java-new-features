@@ -56,3 +56,16 @@ Contains codes demonstrating Java new features starting from Java 8
 5. EdDSA
 6. Hidden Classes
 7. Garbage Collector
+
+## Java 16 Features:
+1. Stream toList()
+2. Record enhanced and finalized
+3. Time Format Enhancement
+4. Sealed Classes
+5. Default Methods and Proxies
+
+## Java 17 Features:
+1. Sealed Classes
+2. Random Generator Factories
+3. Pattern Matching Switch
+4. Enhanced De-SerializationFilters
