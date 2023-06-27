@@ -38,3 +38,5 @@ replay_pid*
 
 # Maven
 target/
+
+java-17-features/target/classes/META-INF/maven/java-17-features/com.attraya.java17/
