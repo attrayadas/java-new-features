@@ -69,3 +69,8 @@ Contains codes demonstrating Java new features starting from Java 8
 2. Random Generator Factories
 3. Pattern Matching Switch
 4. Enhanced De-SerializationFilters
+
+## Note on Consumer, Predicate & Supplier:
+1. Consumer contains void accept(T t) method. Stream use-case: Arrays.asList(1, 2, 3, 4, 5).stream().forEach((t) -> System.out.println("Printing :: " + t)));
+2. Predicate contains boolean test(T t) method. Stream use-case: Arrays.asList(1, 2, 3, 4, 8).stream().filter(t -> t % 2 == 0).forEach(t -> System.out.println("Prints 2 multiple :: " + t));
+3. Supplier contains T get() Stream use-case: Arrays.asList().stream().findAny().orElseGet(()->"Not found")
